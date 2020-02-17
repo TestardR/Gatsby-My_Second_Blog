@@ -1,10 +1,10 @@
 ---
 title: CRLF Injection
 date: '2019-02-15'
-time: '☕️'
+time: '☕️ 6 min read'
 template: "post"
 draft: false
-slug: "HPP-vulnerability"
+slug: "CRLF-vulnerability"
 category: "Cybersecurity"
 tags:
   - "Cybersecurity"

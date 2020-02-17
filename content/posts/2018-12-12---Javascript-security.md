@@ -1,7 +1,7 @@
 ---
 title: What about security specific to Javascript ?
 date: "2018-12-12"
-time: '☕️'
+time: '☕️ 8 min read'
 template: "post"
 draft: false
 slug: "JavaScript-security"

@@ -1,7 +1,7 @@
 ---
 title: How does HTTPS really protect data ?
 date: "2018-11-06"
-time: '☕️☕️'
+time: '☕️☕️ 10 min read'
 template: "post"
 draft: false
 slug: "HTTPS-really-protects-data"

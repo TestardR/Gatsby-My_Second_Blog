@@ -42,6 +42,10 @@
         text-transform: uppercase;
       }
 
+      &-time-read {
+        font-size: $typographic-small-font-size;
+      }
+
       &-divider {
         margin: 0 5px;
       }

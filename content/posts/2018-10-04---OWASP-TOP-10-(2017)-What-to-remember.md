@@ -1,7 +1,7 @@
 ---
 title: OWASP (2017) What to remember in a few words
 date: "2018-10-04"
-time: '☕️☕️☕️'
+time: '☕️☕️☕️ 15 min read'
 template: "post"
 draft: false
 slug: "OWASP-TOP-10-(2017)-What-to-remember"

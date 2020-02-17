@@ -1,7 +1,7 @@
 ---
 title: Introduction to Web Security
 date: '2019-01-27'
-time: '☕️☕️'
+time: '☕️☕️ 10 min read'
 template: "post"
 draft: false
 slug: "Web-security"
