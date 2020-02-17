@@ -24,7 +24,6 @@ const Feed = ({ edges }: Props) => (
           </span>
           <span className={styles['feed__item-meta-divider']} />
           <span className={styles['feed__item-meta-time-read']}>{edge.node.frontmatter.time}</span>
-         
         </div>
         <h2 className={styles['feed__item-title']}>
           <Link className={styles['feed__item-title-link']} to={edge.node.fields.slug}>{edge.node.frontmatter.title}</Link>
