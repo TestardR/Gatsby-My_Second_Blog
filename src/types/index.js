@@ -31,6 +31,7 @@ export type Node = {
   frontmatter: {
     date: string,
     description?: string,
+    time?: string,
     category?: string,
     tags?: string[],
     title: string,

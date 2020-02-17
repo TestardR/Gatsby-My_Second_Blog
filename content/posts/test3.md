@@ -1,16 +1,16 @@
 ---
-title: "A Brief History of Typography"
-date: "2016-02-02T22:40:32.169Z"
-template: "post"
-draft: false
-slug: "a-brief-history-of-typography"
-category: "Design Inspiration"
-tags:
-  - "Linotype"
-  - "Monotype"
-  - "History of typography"
-  - "Helvetica"
-description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
+# title: "A Brief History of Typography"
+# date: "2016-02-02T22:40:32.169Z"
+# template: "post"
+# draft: false
+# slug: "a-brief-history-of-typography"
+# category: "Design Inspiration"
+# tags:
+#   - "Linotype"
+#   - "Monotype"
+#   - "History of typography"
+#   - "Helvetica"
+# description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
 socialImage: "/media/image-0.jpg"
 ---
 
