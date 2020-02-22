@@ -4,7 +4,7 @@ template: "page"
 socialImage: "/media/dancer1.jpg"
 ---
 
-Hi, I am Romain. I am currently building a lot of things for **@Opensense**. Meanwhile, I build some things you may seen **@Matrix**. My technival background involves a lot of JavaScript and Python and for the past year, I have been working on mobile using React Native. 
+Hi, I am Romain. I am currently building a lot of things for [@Opensense](http://104.155.62.110/en/home/). Meanwhile, I build some things you may seen [@Matrix](https://matrix.org/) . My technival background involves a lot of JavaScript and Python and for the past year, I have been working on mobile using React Native. 
 
 Overall, I have genuine passion for building user interface and consider it a hobby. I am very fond of little details. I like interactivity, UI & UX, as well as performant code and semantic markup. Consistency and predictability are key. 
 
@@ -13,6 +13,5 @@ Before becoming a **Full Stack Software Engineer**, I have worked as an **Econom
 Speaking of, this bio would not be complete without mentioning my life work for the past 16 years as a dancer. I surely consider myself as an artist.
 
 ![Hip-Hop Dancing.](/media/dancer1.jpg)
-
 
 
