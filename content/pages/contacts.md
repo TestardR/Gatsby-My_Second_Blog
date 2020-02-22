@@ -1,31 +1,18 @@
 ---
-title: "Contact me"
+title: "About me"
 template: "page"
-socialImage: "/media/image-4.jpg"
+socialImage: "/media/dancer1.jpg"
 ---
 
-Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
+Hi, I am Romain. I am currently building a lot of things for **@Opensense**. Meanwhile, I build some things you may seen **@Matrix**. My technival background involves a lot of JavaScript and Python and for the past year, I have been working on mobile using React Native. 
 
-Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.
+Overall, I have genuine passion for building user interface and consider it a hobby. I am very fond of little details. I like interactivity, UI & UX, as well as performant code and semantic markup. Consistency and predictability are key. 
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-4.jpg)
+Before becoming a **Full Stack Software Engineer**, I have worked as an **Economics Teacher**. It gave me a great sense of communication as well as tools to lead teams and guide others to become great at what they dedicate. 
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+Speaking of, this bio would not be complete without mentioning my life work for the past 16 years as dancer. I surely consider myself as an artist.
 
-## Header Level 2
+![Hip-Hop Dancing.](/media/dancer1.jpg)
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
 
-+ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
-+ Vestibulum auctor dapibus neque.
 
-### Header Level 3
-
-Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.
-
-Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.
-
-#### Header Level 4
-
-Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est.
