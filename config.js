@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://overcoded.io',
   pathPrefix: '/',
-  title: 'Blog by Romain Testard',
+  title: 'Overcoded',
   subtitle: '',
   copyright: '',
   // copyright: '© All rights reserved.',
@@ -18,7 +18,7 @@ module.exports = {
     },
     // {
     //   label: 'Projects',
-    //   path: '/pages/about'
+    //   path: '/projects'
     // },
     {
       label: 'About me',
