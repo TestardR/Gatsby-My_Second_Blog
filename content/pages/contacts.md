@@ -4,7 +4,7 @@ template: "page"
 socialImage: "/media/dancer1.jpg"
 ---
 
-Hi, I am Romain. I am currently building applications for [@Opensense](http://104.155.62.110/en/home/). Meanwhile, I build some things you may seen [@Matrix](https://matrix.org/) . My technival background involves a lot of **JavaScript** and **Python** and for the past two year, I have been working on web and mobile apps using **React** and **React Native**. 
+Hi, I am Romain. I am currently building applications for [@Opensense](http://104.155.62.110/en/home/). Meanwhile, I build some things you may have seen [@Matrix](https://matrix.org/) . My technival background involves a lot of **JavaScript** and **Python** and for the past two year, I have been working on web and mobile apps using **React** and **React Native**. 
 
 Overall, I have genuine passion for building user interface and consider it a hobby. I am very fond of little details. I like interactivity, UI & UX, as well as performant code and semantic markup. Consistency and predictability are key. 
 
