@@ -11,34 +11,19 @@ import type { PageContext, AllMarkdownRemark } from '../types';
 
 type Props = {
   data: AllMarkdownRemark,
-  pageContext: PageContext
 };
 
-const ProjectsListTemplate = ({ data, pageContext }: Props) => {
+const ProjectsListTemplate = ({ data }: Props) => {
   const { title: siteTitle, subtitle: siteSubtitle } = useSiteMetadata();
 
-  const {
-    currentPage,
-    prevPagePath,
-    nextPagePath,
-    hasPrevPage,
-    hasNextPage,
-  } = pageContext;
-
-
   const { edges } = data.allMarkdownRemark;
-  const pageTitle = currentPage > 0 ? `Projects - Page ${currentPage} - ${siteTitle}` : siteTitle;
+  console.log(edges)
+  const pageTitle = `Projects - ${siteTitle}`;
   return (
     <Layout title={pageTitle} description={siteSubtitle}>
       <Sidebar isIndex />
       <Page title={'Projects & Startups'}>
         <Feed edges={edges} />
-        <Pagination
-          prevPagePath={prevPagePath}
-          nextPagePath={nextPagePath}
-          hasPrevPage={hasPrevPage}
-          hasNextPage={hasNextPage}
-        />
       </Page>
     </Layout>
   );
@@ -56,12 +41,12 @@ export const query = graphql`
         node {
           fields {
             slug
-            categorySlug
           }
           frontmatter {
             title
             date
             description
+            socialImage
           }
         }
       }
