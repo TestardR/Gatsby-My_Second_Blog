@@ -1,7 +1,7 @@
 ---
 title: CRLF Injection
 date: '2019-02-15'
-time: '☕️ 6 min read'
+time: '☕️'
 template: "post"
 draft: false
 slug: "CRLF-vulnerability"
