@@ -1,7 +1,7 @@
 ---
 title: Open Redirect Vulnerabilities
 date: '2019-02-10'
-time: '☕️ 2 min read'
+time: '☕️'
 template: "post"
 draft: false
 slug: "ORV-vulnerability"

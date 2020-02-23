@@ -1,7 +1,7 @@
 ---
 title: My thoughts on cybersecurity for 2019
 date: "2018-09-08"
-time: '☕️ 5 min read'
+time: '☕️'
 template: "post"
 draft: false
 slug: "My-thoughts-on-cybersecurity-for-2019"

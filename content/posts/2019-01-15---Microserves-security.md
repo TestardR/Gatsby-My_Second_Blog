@@ -1,7 +1,7 @@
 ---
 title: Introduction to Microservices and Security
 date: "2019-01-15"
-time: '☕️ 5 min read'
+time: '☕️'
 template: "post"
 draft: false
 slug: "Microservices-security"
