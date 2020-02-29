@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`CategoryTemplate renders correctly 1`] = `
+exports[`ProjectListTemplate renders correctly 1`] = `
 <div
   className="layout"
 >
@@ -24,7 +24,7 @@ exports[`CategoryTemplate renders correctly 1`] = `
             width="75"
           />
         </a>
-        <h2
+        <h1
           className="author__title"
         >
           <a
@@ -33,7 +33,7 @@ exports[`CategoryTemplate renders correctly 1`] = `
           >
             Test name
           </a>
-        </h2>
+        </h1>
         <p
           className="author__subtitle"
         >
@@ -234,135 +234,120 @@ exports[`CategoryTemplate renders correctly 1`] = `
       <h1
         className="page__title"
       >
-        test
+        Projects & Startups
       </h1>
       <div
         className="page__body"
       >
         <div
-          className="feed"
+          style={
+            Object {
+              "marginBottom": "2rem",
+            }
+          }
         >
-          <div
-            className="feed__item"
-          >
-            <div
-              className="feed__item-meta"
-            >
-              <time
-                className="feed__item-meta-time"
-                dateTime="September 1, 2016"
-              >
-                September 2016
-              </time>
-              <span
-                className="feed__item-meta-divider"
-              />
-              <span
-                className="feed__item-meta-category"
-              >
-                <a
-                  className="feed__item-meta-category-link"
-                  href="/test"
-                >
-                  test
-                </a>
-              </span>
-              <span
-                className="feed__item-meta-divider"
-              />
-              <span
-                className="feed__item-meta-time-read"
-              />
-            </div>
-            <h2
-              className="feed__item-title"
-            >
-              <a
-                className="feed__item-title-link"
-                href="/test_0"
-              >
-                test_0
-              </a>
-            </h2>
-            <p
-              className="feed__item-description"
-            >
-              test_0
-            </p>
-          </div>
-          <div
-            className="feed__item"
-          >
-            <div
-              className="feed__item-meta"
-            >
-              <time
-                className="feed__item-meta-time"
-                dateTime="September 1, 2016"
-              >
-                September 2016
-              </time>
-              <span
-                className="feed__item-meta-divider"
-              />
-              <span
-                className="feed__item-meta-category"
-              >
-                <a
-                  className="feed__item-meta-category-link"
-                  href="/test"
-                >
-                  test
-                </a>
-              </span>
-              <span
-                className="feed__item-meta-divider"
-              />
-              <span
-                className="feed__item-meta-time-read"
-              />
-            </div>
-            <h2
-              className="feed__item-title"
-            >
-              <a
-                className="feed__item-title-link"
-                href="/test_1"
-              >
-                test_1
-              </a>
-            </h2>
-            <p
-              className="feed__item-description"
-            >
-              test_1
-            </p>
-          </div>
+          Here are some applications I have made or contributed to. These were once cool to me. Enough so I put them here. Truth be told, they may or may not still be cool to me.
         </div>
         <div
-          className="pagination"
+          className="project-feed"
         >
           <div
-            className="pagination__prev"
+            className="project-feed__item"
           >
-            <a
-              className="pagination__prev-link"
-              href="/page/1"
-              rel="prev"
+            <div
+              className="project-feed__item-meta"
             >
-              ← PREV
-            </a>
+              <h2
+                className="project-feed__item-title"
+              >
+                <a
+                  className="project-feed__item-title-link"
+                  href="/test_0"
+                >
+                  test_0
+                </a>
+              </h2>
+              <time
+                className="project-feed__item-meta-time"
+                dateTime="September 1, 2016"
+              >
+                September 2016
+              </time>
+            </div>
+            <div
+              className="project-feed__item-image"
+            >
+              <a
+                className="project-feed__item-image-link"
+                href="/test_0"
+              >
+                <img
+                  alt="test_0"
+                  className="author__photo"
+                  height="300px"
+                  src="/"
+                  width="600px"
+                />
+                <div
+                  className="project-feed__item-image-overlay"
+                >
+                  <div
+                    className="project-feed__item-image-overlay-message"
+                  >
+                    Explore
+                  </div>
+                </div>
+              </a>
+            </div>
           </div>
           <div
-            className="pagination__next"
+            className="project-feed__item"
           >
-            <a
-              className="pagination__next-link"
-              href="/page/3"
-              rel="next"
+            <div
+              className="project-feed__item-meta"
             >
-              → NEXT
-            </a>
+              <h2
+                className="project-feed__item-title"
+              >
+                <a
+                  className="project-feed__item-title-link"
+                  href="/test_1"
+                >
+                  test_1
+                </a>
+              </h2>
+              <time
+                className="project-feed__item-meta-time"
+                dateTime="September 1, 2016"
+              >
+                September 2016
+              </time>
+            </div>
+            <div
+              className="project-feed__item-image"
+            >
+              <a
+                className="project-feed__item-image-link"
+                href="/test_1"
+              >
+                <img
+                  alt="test_1"
+                  className="author__photo"
+                  height="300px"
+                  src="/"
+                  width="600px"
+                />
+                <div
+                  className="project-feed__item-image-overlay"
+                >
+                  <div
+                    className="project-feed__item-image-overlay-message"
+                  >
+                    Explore
+                  </div>
+                </div>
+              </a>
+            </div>
           </div>
         </div>
       </div>

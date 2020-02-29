@@ -2,15 +2,15 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
 import { useStaticQuery, StaticQuery } from 'gatsby';
-import ProjectTemplate from './project-template';
+import ProjectListTemplate from './project-list-template';
 import siteMetadata from '../../jest/__fixtures__/site-metadata';
-import markdownRemark from '../../jest/__fixtures__/markdown-remark';
+import allMarkdownRemark from '../../jest/__fixtures__/all-markdown-remark';
 import type { RenderCallback } from '../types';
 
-describe('ProjectTemplate', () => {
+describe('ProjectListTemplate', () => {
   const props = {
     data: {
-      ...markdownRemark
+      ...allMarkdownRemark
     }
   };
 
@@ -24,7 +24,7 @@ describe('ProjectTemplate', () => {
   });
 
   it('renders correctly', () => {
-    const tree = renderer.create(<ProjectTemplate {...props} />).toJSON();
+    const tree = renderer.create(<ProjectListTemplate {...props} />).toJSON();
     expect(tree).toMatchSnapshot();
   });
 });

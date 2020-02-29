@@ -13,11 +13,11 @@ type Props = {
   data: AllMarkdownRemark
 };
 
-const ProjectsListTemplate = ({ data }: Props) => {
+const ProjectListTemplate = ({ data }: Props) => {
   const { title: siteTitle, subtitle: siteSubtitle } = useSiteMetadata();
 
   const { edges } = data.allMarkdownRemark;
-  console.log(edges);
+
   const pageTitle = `Projects - ${siteTitle}`;
   return (
     <Layout title={pageTitle} description={siteSubtitle}>
@@ -51,6 +51,7 @@ export const query = graphql`
           frontmatter {
             title
             date
+            time
             description
             socialImage
           }
@@ -60,4 +61,4 @@ export const query = graphql`
   }
 `;
 
-export default ProjectsListTemplate;
+export default ProjectListTemplate;
