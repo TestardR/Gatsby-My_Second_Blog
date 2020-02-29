@@ -3,10 +3,10 @@ import React from 'react';
 import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
 import Sidebar from '../components/Sidebar';
-import Feed from '../components/Feed';
 import Page from '../components/Page';
 import Pagination from '../components/Pagination';
 import { useSiteMetadata } from '../hooks';
+import ProjectFeed from '../components/ProjectFeed';
 import type { PageContext, AllMarkdownRemark } from '../types';
 
 type Props = {
@@ -23,7 +23,7 @@ const ProjectsListTemplate = ({ data }: Props) => {
     <Layout title={pageTitle} description={siteSubtitle}>
       <Sidebar isIndex />
       <Page title={'Projects & Startups'}>
-        <Feed edges={edges} />
+        <ProjectFeed edges={edges} />
       </Page>
     </Layout>
   );
