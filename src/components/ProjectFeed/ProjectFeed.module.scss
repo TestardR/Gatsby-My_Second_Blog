@@ -26,8 +26,26 @@
       }
     }
 
+    &-meta {
+      &-time {
+        font-size: $typographic-small-font-size;
+        color: $color-base;
+        font-weight: 600;
+      }
+
+      &-time-read {
+        font-size: $typographic-small-font-size;
+      }
+
+      &-divider {
+        margin: 0 5px;
+      }
+    }
+
     &-image {
       position: relative;
+      border: 3px solid black;
+
       &-link {
         color: $color-base;
 
@@ -45,13 +63,13 @@
         left: 0;
         right: 0;
         height: 100%;
-        width: 95%;
+        width: 100%;
         opacity: 0;
         transition: 0.5s ease-in;
         background-color: black;
 
         &-message {
-          color:white;
+          color: white;
           font-size: $typographic-base-font-size * 1.6875;
           font-weight: 600;
           position: absolute;
@@ -64,7 +82,7 @@
 
       &:hover {
         .project-feed__item-image-overlay {
-          opacity: .7;
+          opacity: 0.6;
         }
       }
     }

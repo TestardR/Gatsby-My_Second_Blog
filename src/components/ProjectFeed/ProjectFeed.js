@@ -26,15 +26,19 @@ const ProjectFeed = ({ edges }: Props) => {
                 {edge.node.frontmatter.title}
               </Link>
             </h2>
+            <div style={{display: 'flex'}}>
+              <time
+                className={styles['project-feed__item-meta-time']}
+                dateTime={moment(edge.node.frontmatter.date).format(
+                  'MMMM D, YYYY'
+                )}
+              >
+                {moment(edge.node.frontmatter.date).format('YYYY')}
+              </time>
+              <span className={styles['project-feed__item-meta-divider']} />
 
-            <time
-              className={styles['project-feed__item-meta-time']}
-              dateTime={moment(edge.node.frontmatter.date).format(
-                'MMMM D, YYYY'
-              )}
-            >
-              {moment(edge.node.frontmatter.date).format('MMMM YYYY')}
-            </time>
+              <span className={styles['project-feed__item-meta-time']}>{edge.node.frontmatter.time}</span>
+            </div>
           </div>
           <div className={styles['project-feed__item-image']}>
             <Link
@@ -44,8 +48,8 @@ const ProjectFeed = ({ edges }: Props) => {
               <img
                 src={withPrefix(edge.node.frontmatter.socialImage)}
                 className={styles['author__photo']}
-                width="600px"
-                height="300px"
+                width="100%"
+                height="100%"
                 alt={edge.node.frontmatter.title}
               />
               <div className={styles['project-feed__item-image-overlay']}>
