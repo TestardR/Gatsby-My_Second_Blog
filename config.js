@@ -16,10 +16,10 @@ module.exports = {
       label: 'Articles',
       path: '/'
     },
-    // {
-    //   label: 'Projects',
-    //   path: '/projects'
-    // },
+    {
+      label: 'Projects',
+      path: '/projects'
+    },
     {
       label: 'About me',
       path: '/pages/contacts'

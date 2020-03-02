@@ -262,6 +262,12 @@ exports[`IndexTemplate renders correctly 1`] = `
                   test
                 </a>
               </span>
+              <span
+                className="feed__item-meta-divider"
+              />
+              <span
+                className="feed__item-meta-time-read"
+              />
             </div>
             <h2
               className="feed__item-title"
@@ -278,12 +284,6 @@ exports[`IndexTemplate renders correctly 1`] = `
             >
               test_0
             </p>
-            <a
-              className="feed__item-readmore"
-              href="/test_0"
-            >
-              Read
-            </a>
           </div>
           <div
             className="feed__item"
@@ -310,6 +310,12 @@ exports[`IndexTemplate renders correctly 1`] = `
                   test
                 </a>
               </span>
+              <span
+                className="feed__item-meta-divider"
+              />
+              <span
+                className="feed__item-meta-time-read"
+              />
             </div>
             <h2
               className="feed__item-title"
@@ -326,12 +332,6 @@ exports[`IndexTemplate renders correctly 1`] = `
             >
               test_1
             </p>
-            <a
-              className="feed__item-readmore"
-              href="/test_1"
-            >
-              Read
-            </a>
           </div>
         </div>
         <div
