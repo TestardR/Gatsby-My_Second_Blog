@@ -8,7 +8,7 @@ import styles from './Sidebar.module.scss';
 import { useSiteMetadata } from '../../hooks';
 
 type Props = {
-  isIndex?: boolean
+  isIndex?: boolean,
 };
 
 const Sidebar = ({ isIndex }: Props) => {
@@ -20,6 +20,33 @@ const Sidebar = ({ isIndex }: Props) => {
         <Menu menu={menu} />
         <Contacts contacts={author.contacts} />
         <Copyright copyright={copyright} />
+        <div>My favourite technologies:</div>
+        <div className={styles['logo']}>
+          <img
+            className={styles['logo__item']}
+            src={require('../../../static/media/technology/React.png')}
+          />
+          <img
+            className={styles['logo__item']}
+            src={require('../../../static/media/technology/Vue.png')}
+          />
+          <img
+            className={styles['logo__item']}
+            src={require('../../../static/media/technology/Webpack.png')}
+          />
+          <img
+            className={styles['logo__item']}
+            src={require('../../../static/media/technology/Javascript.png')}
+          />
+          <img
+            className={styles['logo__item']}
+            src={require('../../../static/media/technology/Typescript.png')}
+          />
+          <img
+            className={styles['logo__item']}
+            src={require('../../../static/media/technology/Python.png')}
+          />
+        </div>
       </div>
     </div>
   );
