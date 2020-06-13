@@ -28,11 +28,11 @@ const Sidebar = ({ isIndex }: Props) => {
           />
           <img
             className={styles['logo__item']}
-            src={require('../../../static/media/technology/Vue.png')}
+            src={require('../../../static/media/technology/Webpack.png')}
           />
           <img
             className={styles['logo__item']}
-            src={require('../../../static/media/technology/Webpack.png')}
+            src={require('../../../static/media/technology/Node.png')}
           />
           <img
             className={styles['logo__item']}
