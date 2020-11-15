@@ -4,16 +4,13 @@ template: 'page'
 socialImage: '/media/dancer1.jpg'
 ---
 
-Hi, I am Romain. I am currently building applications for [@Bluenove](https://bluenove.com/en/).
-As an open source enthusiast, I have contributed to [@Matrix](https://matrix.org/docs/projects/try-matrix-now/)
-and [@Assembl](https://gitlab.com/assembl/assembl).
+Hi, I am Romain. I am currently building applications [@Bluenove](https://bluenove.com/en/). Among all the projects at Bluenove, we contribute and maintain [@Assembl](https://gitlab.com/assembl/assembl), the open source project. 
 
 My technical background involves a lot of **JavaScript**, **TypeScript**, and **Python**. 
 For the past three years, I have been working on web apps using **React**, **Node**, and **Django**.
 
-Overall, I have genuine passion for **architecture design**.
+Overall, I have genuine passion for **architecture designs**.
 Having experience, both as a **Backend and Frontend Engineer**, I have a comprehensive understanding of web applications. 
-
 
 Before becoming a **Full Stack Software Engineer**, I have worked as an **Economics Teacher**. 
 It gave me a great sense of communication as well as tools to lead teams.
