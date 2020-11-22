@@ -4,7 +4,7 @@ template: 'page'
 socialImage: '/media/dancer1.jpg'
 ---
 
-Hi, I am Romain. I am currently building applications [@Bluenove](https://bluenove.com/en/). Among all the projects at Bluenove, we contribute and maintain [@Assembl](https://gitlab.com/assembl/assembl), the open source project. 
+Hi, I am Romain. I am currently building applications [@Bluenove](https://bluenove.com/en/). Among all the projects at Bluenove, we contribute to and maintain [@Assembl](https://gitlab.com/assembl/assembl), the open source project. 
 
 My technical background involves a lot of **JavaScript**, **TypeScript**, and **Python**. 
 For the past three years, I have been working on web apps using **React**, **Node**, and **Django**.
