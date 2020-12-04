@@ -24,18 +24,6 @@ const Sidebar = ({ isIndex }: Props) => {
         <div className={styles['logo']}>
           <img
             className={styles['logo__item']}
-            src={require('../../../static/media/technology/React.png')}
-          />
-          <img
-            className={styles['logo__item']}
-            src={require('../../../static/media/technology/Webpack.png')}
-          />
-          <img
-            className={styles['logo__item']}
-            src={require('../../../static/media/technology/Node.png')}
-          />
-          <img
-            className={styles['logo__item']}
             src={require('../../../static/media/technology/Javascript.png')}
           />
           <img
@@ -45,6 +33,22 @@ const Sidebar = ({ isIndex }: Props) => {
           <img
             className={styles['logo__item']}
             src={require('../../../static/media/technology/Python.png')}
+          />
+          <img
+            className={styles['logo__item']}
+            src={require('../../../static/media/technology/React.png')}
+          />
+          <img
+            className={styles['logo__item']}
+            src={require('../../../static/media/technology/Node.png')}
+          />
+          <img
+            className={styles['logo__item']}
+            src={require('../../../static/media/technology/docker.png')}
+          />
+          <img
+            className={styles['logo__item']}
+            src={require('../../../static/media/technology/K8S.png')}
           />
         </div>
       </div>
