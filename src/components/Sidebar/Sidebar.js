@@ -48,7 +48,7 @@ const Sidebar = ({ isIndex }: Props) => {
           />
           <img
             className={styles['logo__item']}
-            src={require('../../../static/media/technology/K8S.png')}
+            src={require('../../../static/media/technology/k8s.png')}
           />
         </div>
       </div>
