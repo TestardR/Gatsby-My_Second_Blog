@@ -10,7 +10,7 @@ My technical background involves a lot of **JavaScript**, **TypeScript**, and **
 For the past three years, I have been working on web apps using **React**, **Node**, and **Django**.
 
 Overall, I have genuine passion for **architecture designs**.
-Having experience, both as a **Backend and Frontend Engineer**, I have a comprehensive understanding of web applications. 
+Having experience, as both a **Backend, and Frontend Engineer** with a **DevOps** mindset, I have a comprehensive understanding of web applications. 
 
 Before becoming a **Full Stack Software Engineer**, I have worked as an **Economics Teacher**. 
 It gave me a great sense of communication as well as tools to lead teams.
