@@ -13,7 +13,7 @@ module.exports = async (graphql, actions) => {
       ) { totalCount }
     }
   `);
-  
+
   const { postsPerPage } = siteConfig;
   const numPages = Math.ceil(result.data.allMarkdownRemark.totalCount / postsPerPage);
 

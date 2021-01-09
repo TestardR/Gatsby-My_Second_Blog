@@ -16,7 +16,7 @@ module.exports = {
       label: 'Articles',
       path: '/'
     },
-/*     {
+    /*     {
       label: 'Projects',
       path: '/projects'
     }, */

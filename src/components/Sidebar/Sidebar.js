@@ -32,7 +32,7 @@ const Sidebar = ({ isIndex }: Props) => {
           />
           <img
             className={styles['logo__item']}
-            src={require('../../../static/media/technology/React.png')}
+            src={require('../../../static/media/technology/react.png')}
           />
           <img
             className={styles['logo__item']}
