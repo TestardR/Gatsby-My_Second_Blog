@@ -6,8 +6,6 @@ install:
 script:
   - yarn install
   - yarn lint
-  - yarn test:coverage --runInBand --no-cache
-  - yarn test --runInBand --no-cache
   - codecov
 cache:
   directories:
