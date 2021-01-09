@@ -32,7 +32,7 @@ const Sidebar = ({ isIndex }: Props) => {
           />
           <img
             className={styles['logo__item']}
-            src={require('../../../static/media/technology/react.png')}
+            src={require('../../../static/media/technology/React.png')}
           />
           <img
             className={styles['logo__item']}
@@ -44,7 +44,7 @@ const Sidebar = ({ isIndex }: Props) => {
           />
           <img
             className={styles['logo__item']}
-            src={require('../../../static/media/technology/Docker.png')}
+            src={require('../../../static/media/technology/docker.png')}
           />
           <img
             className={styles['logo__item']}
