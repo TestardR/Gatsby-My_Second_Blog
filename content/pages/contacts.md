@@ -6,8 +6,7 @@ socialImage: '/media/dancer1.jpg'
 
 Hi, I am Romain. I am currently building applications [@Bluenove](https://bluenove.com/en/). Among all the projects at Bluenove, we contribute to and maintain [@Assembl](https://gitlab.com/assembl/assembl), the open source project. 
 
-My technical background involves a lot of **JavaScript**, **TypeScript**, and **Python**. 
-For the past three years, I have been working on web apps using **React**, **Node**, and **Django**.
+My technical background involves **JavaScript**, **TypeScript**, and **Python**. For the past three years, I have been working within micro-service ecosystems, using K8S and Docker an building web apps running on **React**, **Node**, and **Django**.
 
 Overall, I have genuine passion for **architecture designs**.
 Having experience, as both a **Backend, and Frontend Engineer** with a **DevOps** mindset, I have a comprehensive understanding of web applications. 
