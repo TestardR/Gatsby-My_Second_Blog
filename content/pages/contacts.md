@@ -4,14 +4,12 @@ template: 'page'
 socialImage: '/media/dancer1.jpg'
 ---
 
-Hi, I am Romain. I am currently building applications [@Bluenove](https://bluenove.com/en/). We develop and maintain [@Assembl](https://gitlab.com/assembl/assembl), the open source project. 
+My technical background involves a variety of languages: **JavaScript**, **TypeScript**, **Python**, and **Golang**. For the past years, I have been building micro-services relying on **Kubernetes** and **Docker**.
 
-My technical background involves **JavaScript**, **TypeScript**, and **Python**. For the past three years, I have been working within micro-service ecosystems, using **K8S** and **Docker** and building web apps running on **React**, **Node**, and **Django**.
+Overall, I have genuine passion for **architecture designs** and **engineering management**.
+Having experience, as both a **Backend and Frontend Engineer** with a **DevOps** mindset, I have a comprehensive understanding of microservice architectures and teams organization to produce them. 
 
-Overall, I have genuine passion for **architecture designs**.
-Having experience, as both a **Backend, and Frontend Engineer** with a **DevOps** mindset, I have a comprehensive understanding of web applications. 
-
-Before becoming a **Full Stack Software Engineer**, I have worked as an **Economics Teacher**. 
+Before becoming a **Software Engineer**, I have worked as an **Economics Teacher**. 
 It gave me a great sense of communication as well as tools to lead teams.
 
 Speaking of, this bio would not be complete without mentioning my life work for the past 16 years 
