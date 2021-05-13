@@ -4,7 +4,7 @@ template: 'page'
 socialImage: '/media/dancer1.jpg'
 ---
 
-My technical background involves a variety of languages: **JavaScript**, **TypeScript**, **Python**, and **Golang**. For the past years, I have been building micro-services relying on **Kubernetes** and **Docker**.
+My technical background involves a variety of languages: **TypeScript**, **Python**, and **Golang**. For the past years, I have been building micro-services relying on **Kubernetes** and **Docker**.
 
 Overall, I have genuine passion for **architecture designs** and **engineering management**.
 Having experience, as both a **Backend and Frontend Engineer** with a **DevOps** mindset, I have a comprehensive understanding of microservice architectures and teams organization to produce them. 
