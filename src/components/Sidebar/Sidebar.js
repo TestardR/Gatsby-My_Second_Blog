@@ -22,25 +22,18 @@ const Sidebar = ({ isIndex }: Props) => {
         <Copyright copyright={copyright} />
         <div>My favourite technologies:</div>
         <div className={styles['logo']}>
+        {/* https://icon-icons.com/ */}
           <img
             className={styles['logo__item']}
-            src={require('../../../static/media/technology/Typescript.png')}
+            src={require('../../../static/media/technology/golang.png')}
           />
           <img
             className={styles['logo__item']}
-            src={require('../../../static/media/technology/Python.png')}
+            src={require('../../../static/media/technology/python.png')}
           />
           <img
             className={styles['logo__item']}
-            src={require('../../../static/media/technology/React.png')}
-          />
-          <img
-            className={styles['logo__item']}
-            src={require('../../../static/media/technology/Node.png')}
-          />
-          <img
-            className={styles['logo__item']}
-            src={require('../../../static/media/technology/Postgres.png')}
+            src={require('../../../static/media/technology/typescript.png')}
           />
           <img
             className={styles['logo__item']}
@@ -49,6 +42,14 @@ const Sidebar = ({ isIndex }: Props) => {
           <img
             className={styles['logo__item']}
             src={require('../../../static/media/technology/k8s.png')}
+          />
+          <img
+            className={styles['logo__item']}
+            src={require('../../../static/media/technology/kafka.png')}
+          />
+          <img
+            className={styles['logo__item']}
+            src={require('../../../static/media/technology/postgres.png')}
           />
         </div>
       </div>
