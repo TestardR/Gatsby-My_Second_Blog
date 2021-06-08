@@ -11,10 +11,6 @@
 
 .logo {
   display: flex;
-  margin-top: 0.25rem;
-  &__item {
-    padding: 2px;
-  }
 }
 
 @include breakpoint-sm {
