@@ -24,12 +24,12 @@ const Sidebar = ({ isIndex }: Props) => {
         <div className={styles['logo']}>
           {/* https://icon-icons.com/ */}
           <img src={require('../../../static/media/technology/golang.png')} />
-          <img src={require('../../../static/media/technology/python.png')} />
-          <img src={require('../../../static/media/technology/typescript.png')} />
+          <img src={require('../../../static/media/technology/_python.png')} />
+          <img src={require('../../../static/media/technology/_typescript.png')} />
           <img src={require('../../../static/media/technology/docker.png')} />
           <img src={require('../../../static/media/technology/k8s.png')} />
           <img src={require('../../../static/media/technology/kafka.png')} />
-          <img src={require('../../../static/media/technology/postgres.png')} />
+          <img src={require('../../../static/media/technology/_postgres.png')} />
         </div>
       </div>
     </div>
