@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Romain Testard',
     photo: '/photo.jpg',
-    bio: 'Software engineer, tech lover, and open source enthusiast. From time to time, I write shorts about what inspires me.',
+    bio: 'Software engineer, tech lover. From time to time, I write shorts about what inspires me.',
     contacts: {
       email: 'romain.rtestard@gmail.com',
       facebook: '',
