@@ -20,7 +20,8 @@ const Feed = ({ edges }: Props) => (
 
           <span className={styles['feed__item-meta-divider']} />
           <span className={styles['feed__item-meta-category']}>
-            <Link to={edge.node.fields.categorySlug} className={styles['feed__item-meta-category-link']}>{edge.node.frontmatter.category}</Link>
+            <Link to={edge.node.fields.categorySlug} className={styles['feed__item-meta-category-link']}>
+              {edge.node.frontmatter.category}</Link>
           </span>
           <span className={styles['feed__item-meta-divider']} />
           <span className={styles['feed__item-meta-time-read']}>{edge.node.frontmatter.time}</span>
